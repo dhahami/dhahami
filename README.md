@@ -15,4 +15,4 @@ Passionate about bridging the eye-test with advanced analytics.
 
 ## 📫 Contact
 - Email: dhahami5@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dylan-hahami/
+- LinkedIn: [dylan-hahami](https://www.linkedin.com/in/dylan-hahami/)
