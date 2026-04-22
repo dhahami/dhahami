@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Dylan Hahami 👋
 
-<!--
-**dhahami/dhahami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sports Analytics | Data Science | St. John's University '26, Vanderbilt '27
 
-Here are some ideas to get you started:
+I use data to quantify what happens on the court.
+Passionate about bridging the eye-test with advanced analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+**Languages:** Python, R, SQL  
+**Libraries:** pandas, scikit-learn, ggplot2, randomForest, requests  
+**Tools:** Jupyter, RStudio, Git
+
+## 📌 Featured Projects
+- 🏀 [NBA Hustle & RAPM](https://github.com/dylanhahami/nba-hustle-rapm) — Quantifying hustle plays using Random Forest and RAPM
+
+## 📫 Contact
+- Email: dhahami5@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dylan-hahami/
