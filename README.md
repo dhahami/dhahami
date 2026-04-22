@@ -11,7 +11,7 @@ Passionate about bridging the eye-test with advanced analytics.
 **Tools:** Jupyter, RStudio, Git
 
 ## 📌 Featured Projects
-- 🏀 [NBA Hustle & RAPM](https://github.com/dylanhahami/nba-hustle-rapm) — Quantifying hustle plays using Random Forest and RAPM
+- 🏀 [NBA Hustle & RAPM](https://github.com/dhahami/nba-hustle-rapm) — Quantifying hustle plays using Random Forest and RAPM
 
 ## 📫 Contact
 - Email: dhahami5@gmail.com
